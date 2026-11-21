@@ -429,6 +429,9 @@ img {
 
   .featured-copy h2 {
     font-size: clamp(48px, 12vw, 64px);
+    line-height: 1.08;
+    letter-spacing: -2px;
+    word-spacing: 0.08em;
   }
 
   .featured-image {
